@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/diogo/.gradle/caches/transforms-2/files-2.1/fdfa8334cba04a05901cf27870621c8a/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,115,180",
+                        "endColumns": "59,64,58",
+                        "endOffsets": "110,175,234"
+                    }
+                }
+            ]
+        }
+    ]
+}

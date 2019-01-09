@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/diogo/.gradle/caches/transforms-2/files-2.1/e8e532d1cd96502005adb2b006b3ab27/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "323",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "490"
+                    }
+                },
+                {
+                    "source": "/home/diogo/.gradle/caches/transforms-2/files-2.1/fdfa8334cba04a05901cf27870621c8a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endColumns": "58",
+                        "endOffsets": "318"
+                    }
+                },
+                {
+                    "source": "/home/diogo/.gradle/caches/transforms-2/files-2.1/3d5d61ffc49c751520c1a8a30778cd00/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

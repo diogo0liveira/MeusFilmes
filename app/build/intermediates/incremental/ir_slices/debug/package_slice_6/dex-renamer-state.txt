@@ -1,0 +1,4 @@
+#Mon May 21 14:19:13 BRT 2018
+base.0=/home/diogo/Developer/SAMPLES/ANDROID/MeusFilmes/app/build/intermediates/transforms/dexMerger/debug/51
+path.0=classes.dex
+renamed.0=classes.dex

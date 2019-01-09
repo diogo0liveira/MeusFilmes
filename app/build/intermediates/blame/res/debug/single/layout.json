@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_empty_search_movies.xml",
+        "source": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/src/main/res/layout/view_empty_search_movies.xml"
+    },
+    {
+        "merged": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_content_movie_detail.xml",
+        "source": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/src/main/res/layout/view_content_movie_detail.xml"
+    },
+    {
+        "merged": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_my_movies.xml",
+        "source": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/src/main/res/layout/activity_my_movies.xml"
+    },
+    {
+        "merged": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_detail.xml",
+        "source": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/src/main/res/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_empty_my_movies.xml",
+        "source": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/src/main/res/layout/view_empty_my_movies.xml"
+    },
+    {
+        "merged": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_search_movies.xml",
+        "source": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/src/main/res/layout/activity_search_movies.xml"
+    },
+    {
+        "merged": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_row_movie.xml",
+        "source": "/home/diogo/Developer/ANDROID/PROJETOS/MeusFilmes/app/src/main/res/layout/view_row_movie.xml"
+    }
+]
